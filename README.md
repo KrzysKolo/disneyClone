@@ -3,7 +3,7 @@
   
   
   <a href="https://disney-b43c8.firebaseapp.com/">Cliick here</a>
-  <p> Clone strony Disney+n</p>
+  <p> Clone strony Disney+</p>
   <p> Redux-Toolkit, React-Router, styled-components, firebase, logowanie za pomocą Google</p>
  <img src="demo/demo1.jpg" alt="Disney" width="550px">
   <img src="demo/demo3.jpg" alt="Disney" width="550px">
