@@ -1,4 +1,4 @@
-  <a href="https://linkedin-clone-2cc05.firebaseapp.com/">Cliick here</a>
+  <a href="https://disney-b43c8.firebaseapp.com/">Cliick here</a>
   <p> Clone strony Disney+n</p>
   <p> Redux-Toolkit, React-Router, styled-components, firebase, logowanie za pomoca Google</p>
  <img src="demo/demo1.jpg" alt="Disney" width="550px">
